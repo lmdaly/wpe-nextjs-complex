@@ -1,0 +1,21 @@
+{
+  "name": "wpe-nextjs-complex",
+  "repo": "konrad-glowacki/wpe-nextjs-complex",
+  "environments": [
+    {
+      "name": "development",
+      "branch": "main",
+      "wp_environment_name": "kongloheaddev",
+      "secrets": [
+        {
+          "key": "AIRTABLE_API_KEY",
+          "value": "keyFsL8yVfPLRcSs6"
+        },
+        {
+          "key": "AIRTABLE_BASE_ID",
+          "value": "app25whOKJt4iOE1z"
+        }
+      ]
+    }
+  ]
+}
