@@ -62,7 +62,7 @@ const HostingPage: NextPage<Props> = (props): JSX.Element => {
       Sidebar={BuiltInFeaturesSidebar}
     >
       <DocPage>
-        <h1 className={'pcolor'}>Hosting, using Vercel vendor</h1>
+        <h1 className={'pcolor'}>Hosting, using WPEngine vendor</h1>
 
         <Alert color={'info'}>
           Vercel is the company that made the Next.js framework.<br />
